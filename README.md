@@ -1,45 +1,64 @@
-Muhammad Nabeel Iqbal
+```html
+<h1>Muhammad Nabeel Iqbal</h1>
+<p>
+  Hello! I'm an enthusiastic <strong>AI/ML Engineer</strong> with a deep passion for 
+  <strong>Generative AI, RAG systems, and LLM applications</strong>.  
+  I love building voice-enabled AI systems, semantic search tools, and intelligent 
+  document understanding solutions that bring automation closer to human intelligence.
+</p>
 
-AI/ML Engineer | Generative AI Developer | RAG System Specialist
+<hr>
 
-AI/ML Engineer crafting RAG, LLM & Voice-AI systems with Python, FastAPI & LangChain. Building human-like intelligent apps.
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🎓 I hold a <strong>Bachelor’s degree in Information Technology</strong> from the <strong>University of Okara</strong>.</li>
+  <li>🌱 Currently working as an <strong>AI Engineer at Efaida Technologies</strong>, specializing in <strong>RAG</strong> and <strong>Voice-AI Systems</strong>.</li>
+  <li>💻 I develop and deploy <strong>FastAPI-based Generative AI applications</strong> integrated with <strong>LangChain, FAISS, and Hugging Face</strong>.</li>
+  <li>🧠 My focus lies in creating scalable AI systems that merge natural language understanding, speech technology, and intelligent data workflows.</li>
+</ul>
 
+<hr>
 
-💼 About Me
+<h2>🛠️ Skills</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> Python</li>
+  <li><strong>Frameworks & Tools:</strong> FastAPI, LangChain, FAISS, Hugging Face, TensorFlow, Scikit-learn</li>
+  <li><strong>AI/ML Expertise:</strong> Generative AI, Semantic Search, NLP, Chatbots, Model Fine-tuning, Deep Learning (CNN, LSTM, Transformers)</li>
+  <li><strong>Utilities:</strong> OpenCV, Tesseract OCR, pyttsx3, Groq Whisper, Eleven Labs</li>
+  <li><strong>Soft Skills:</strong> Problem Solving, Team Collaboration, Adaptability, Communication, Git & GitHub</li>
+</ul>
 
-I’m an AI Engineer, working on next-gen Generative AI applications from voice interview systems and document QA tools to AI-driven MCQ generation and image-to-text RAG systems.
-My work focuses on Retrieval-Augmented Generation (RAG), LLM integration, and intelligent data workflows using FastAPI and modern ML frameworks.
+<hr>
 
-🧩 Core Skills
+<h2>🌍 Languages</h2>
+<ul>
+  <li><strong>English:</strong> Advanced (C1)</li>
+  <li><strong>Urdu:</strong> Native (C2)</li>
+</ul>
 
-Languages & Frameworks: Python, FastAPI, LangChain, FAISS, Hugging Face, TensorFlow, Scikit-learn
-AI Expertise: Generative AI, Semantic Search, NLP, Chatbots, AI Agents, Model Fine-tuning
-Tools: OpenCV, Tesseract OCR, Groq, pyttsx3, Eleven Labs
-Core Areas: RAG, Deep Learning (CNN, LSTM, Transformers), Speech-to-Text, Document Parsing
-Soft Skills: Problem-solving, Collaboration, Communication, Adaptability, Git/GitHub
+<hr>
 
-🧱 Highlighted Projects
+<h2>🎮 Hobbies</h2>
+<ul>
+  <li>🎧 Exploring AI Voice Systems</li>
+  <li>📖 Reading about Emerging Technologies</li>
+  <li>💡 Experimenting with New AI Models</li>
+  <li>🏡 Gardening & Nature Walks</li>
+</ul>
 
-Voice Interview AI System (RAG + Resume Parsing)
-Automated interview system with real-time speech-to-text (Groq Whisper), contextual questioning via RAG (FAISS + Llama 3.1), and resume parsing for personalized assessment.
+<hr>
 
-Multi-Document RAG Search (LangChain + Groq)
-FastAPI-based semantic search app using FAISS and MiniLM embeddings for context-aware answers across multiple document types.
+<h2>📫 Connect with Me</h2>
+<ul>
+  <li>📧 <strong>Email:</strong> <a href="mailto:nabeeliqbal398@gmail.com">nabeeliqbal398@gmail.com</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nabeeliqbal398" target="_blank">linkedin.com/in/nabeeliqbal398</a></li>
+  <li>🐱 <strong>GitHub:</strong> <a href="https://github.com/nabeeliqbal398" target="_blank">github.com/nabeeliqbal398</a></li>
+</ul>
 
-Voice QA Chatbot (RAG + Llama 3.1 + Eleven Labs)
-Conversational assistant that retrieves and answers voice queries from documents with natural TTS replies.
+<hr>
 
-AI-Powered MCQ Generator (RAG + FAISS)
-System that generates intelligent multiple-choice questions from documents with automatic distractors.
-
-<h1>Image-to-Text RAG System</h1>
-OCR + semantic retrieval pipeline enabling contextual querying from image-based text content.
-
-🎓 Education
-B.Sc. in Information Technology — University of Okara (2019–2023)
-OCI Generative AI Professional (2025–2027) — Oracle MyLearn
-
-🌐 Connect
-📫 Email: nabeeliqbal398@gmail.com
-💼 LinkedIn: linkedin.com/in/nabeeliqbal398
-📍 Location: Okara, Pakistan
+<p>
+  ⭐ Feel free to explore my repositories and reach out if you’d like to collaborate or 
+  learn more about my work in <strong>Generative AI</strong> and <strong>LLM-driven applications</strong>!
+</p>
+```
