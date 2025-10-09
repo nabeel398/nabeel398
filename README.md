@@ -1,4 +1,4 @@
-```markdown
+
 # Muhammad Nabeel Iqbal  
 Hello! I'm an enthusiastic **AI/ML Engineer** passionate about **Generative AI, RAG systems, and LLM applications**.  
 I love building voice-enabled AI and semantic search systems that make automation more human-like.
