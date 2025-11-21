@@ -6,7 +6,7 @@ I love building voice-enabled AI and semantic search systems that make automatio
 ---
 
 ## 🚀 About Me
-🎓 Bachelor's in **Information Technology** — *University of Okara*  
+🎓 Bachelor's in **Information Technology**  *University of Okara*  
 🌱 **AI Engineer**, focusing on RAG & Voice-AI systems  
 💻 Building **FastAPI + LangChain** Generative AI apps  
 🧠 Creating intelligent, scalable AI workflows for real-world use  
