@@ -36,6 +36,15 @@ I love building voice-enabled AI and semantic search systems that make automatio
 
 ---
 
+## 📈 Dev Metrics & Infrastructure Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api?username=nabeel398&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=nabeel398&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
 ## 📫 Connect with Me  
 📧 [nabeeliqbal398@gmail.com](mailto:nabeeliqbal398@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/nabeeliqbal398)  
